@@ -1,0 +1,11 @@
+.search__bar {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    border-radius: 20px;
+}
+
+.search__button {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
